@@ -35,8 +35,8 @@ API backend desenvolvida para autenticação e controle de acesso de um software
 1. Clone o repositório:
    ```bash
    git clone https://github.com/0x36E9/Services-main-api.git
-   cd Services-main-api```
+   cd Services-main-api
 2. Instale as dependências:
    ```bash
-   bun install```
+   bun install`
 3. Configure o arquivo .env com suas variáveis de ambiente (ex: database URL, chave JWT, webhook do Discord).
