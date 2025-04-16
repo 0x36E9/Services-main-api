@@ -38,5 +38,9 @@ API backend desenvolvida para autenticação e controle de acesso de um software
    cd Services-main-api
 2. Instale as dependências:
    ```bash
-   bun install`
+   bun install
 3. Configure o arquivo .env com suas variáveis de ambiente (ex: database URL, chave JWT, webhook do Discord).
+
+4. Execute o projeto:
+   ```bash
+   bun start
